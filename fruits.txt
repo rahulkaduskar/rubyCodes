@@ -1,0 +1,3 @@
+This is a simple ruby code which calculates which all fruits can buy in a given amount.
+We have fruits.yml which has fruits data (name, amount and available quantity.
+Fruits.rb calculates which all fruits ( data from fruits.yml) can be purchased in given amount.

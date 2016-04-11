@@ -1,0 +1,13 @@
+fruits:
+  - name: "apple"
+    quantity: 4
+    cost: 10
+  - name: "orange"
+    quantity: 7
+    cost: 8
+  - name: "mango"
+    quantity: 20
+    cost: 15
+  - name: "pineapple"
+    quantity: 3
+    cost: 5
